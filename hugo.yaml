@@ -32,7 +32,9 @@ params:
       url: https://x.com/k0sproject
     - name: Slack
       url: https://kubernetes.slack.com/archives/C0809EA06QZ
-
+  footer:
+    text: >-
+      Content licensed under [CC-BY-SA-4.0](https://github.com/k0sproject/blog?tab=CC-BY-SA-4.0-1-ov-file#CC-BY-SA-4.0-1-ov-file)
 outputs:
   home:
     - HTML
